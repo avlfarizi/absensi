@@ -1,5 +1,5 @@
 <?php
-// hahahahhs
+// haha yarit bego
 namespace App\Controllers;
 
 use CodeIgniter\Controller;
